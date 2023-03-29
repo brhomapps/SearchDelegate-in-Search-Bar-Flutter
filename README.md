@@ -6,7 +6,7 @@ The search bar is a common feature in many mobile applications. It allows users 
 
 [https://youtu.be/iIKwkfDayYk]
 
-
+_________________________
 
 [my site:](https://flutter.a-2-z.site/)
 
